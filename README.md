@@ -40,6 +40,8 @@ Add a smile
 
 Shaders added
 
+Paddle and Ball made by me on Adobe Illustrator
+
 ## References
 Music by Xylo-Ziko ("Osmosis) - free music archive
 
