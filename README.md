@@ -43,7 +43,7 @@ Shaders added
 Paddle and Ball made by me on Adobe Illustrator
 
 ## References
-Music by Xylo-Ziko ("Osmosis) - free music archive
+Music by Xylo-Ziko ("Osmosis") - free music archive
 
 
 ## Future Development
